@@ -1,8 +1,3 @@
-.hero {
-    background-color: tan;
-    height: 100px;
-}
-.container{
-    height: 200px;
-    background-color: forestgreen;
+body {
+    background-color: rgb(137, 153, 153);
 }

@@ -1,4 +1,16 @@
 body {
-    background-color: rgb(137, 153, 153);
+    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(22).webp');
     font-family: lobster;
+}
+.bgimg-1 {
+    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp');
+    min-height: 100%;
+}
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
